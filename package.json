@@ -1,0 +1,25 @@
+{
+  "name": "dataxtrctor",
+  "version": "1.0.0",
+  "description": "aplicação para ocerização",
+  "main": "dataxtractorText.js",
+  "scripts": {
+    "test": "node dataxtractorText.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.19.2",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^4.2.67",
+    "tesseract.js": "^5.1.0",
+    "tsc": "^2.0.4",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.5"
+  }
+}
